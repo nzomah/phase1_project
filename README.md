@@ -1,1 +1,3 @@
-# phase1_project
+# MOVIES DATA ANALYSIS
+### Kelvin Kironga Nzomo
+
